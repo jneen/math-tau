@@ -1,8 +1,8 @@
 Gem::Specification.new do |s|
   s.name = "math-tau"
-  s.version = '1.0.0'
-  s.authors = ["Jay Adkisson"]
-  s.email = ["jay@jayferd.us"]
+  s.version = '1.0.1'
+  s.authors = ["Jeanine Adkisson"]
+  s.email = ["jneen@jneen.net"]
   s.summary = "Adds Math::TAU"
   s.description = <<-desc.strip.gsub(/\s+/, ' ')
     Adds Math::TAU as the radius-based circle constant, equal to
